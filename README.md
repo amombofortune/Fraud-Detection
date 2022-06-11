@@ -4,3 +4,5 @@
 In this project, we use various classification-based models to detect whether a transaction is fraudulent or not.
 
 The dataset used is obtained from Kaggle. This dataset holds transactions by European cardholders that occurred over two days in September 2013, with 492 cases of fraud out of 284,807 transactions.
+
+Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
